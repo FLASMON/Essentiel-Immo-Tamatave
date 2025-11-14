@@ -285,7 +285,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/api",
-                "reference": "be9d3f539a90a33da8a9b4863350418843bcd126"
+                "reference": "593cabc2118dc68f9a9bd795e5be46faf2b6afcf"
             },
             "require": {
                 "botble/platform": "*@dev",
@@ -379,7 +379,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/menu",
-                "reference": "5fff8b21785faa48430ffc75e9861ce2ac76ca07"
+                "reference": "4fb766d69e77acbb6d1d7b5678e50f4b02e13cdf"
             },
             "require": {
                 "botble/platform": "*@dev",
@@ -412,7 +412,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/page",
-                "reference": "8d9c7ae7f59cbe2c285f6d93b5349026a3a53699"
+                "reference": "fd000c29162ceafe1b5a9254ad108c3bb2cbcc2b"
             },
             "require": {
                 "botble/platform": "*@dev",
@@ -442,7 +442,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/core",
-                "reference": "7b72ea7321991de25b7cc4ba62960c7fb0df58d2"
+                "reference": "769423c81e86cd591d1e7ed039bae735d2f1adb4"
             },
             "require": {
                 "barryvdh/laravel-dompdf": "^0.9.0",
@@ -528,7 +528,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/plugin-management",
-                "reference": "727593235ee65c9d2709a191d90b0b3d2c5a08d5"
+                "reference": "29751744a6f03d965862838828b299c983e29c2f"
             },
             "require": {
                 "botble/platform": "*@dev"
@@ -557,7 +557,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/revision",
-                "reference": "52dae12c951542b1bc1aabb8ffb3bc7802abf71f"
+                "reference": "da70c1cea160555306a0a9a71e11586e03638fd0"
             },
             "require": {
                 "botble/platform": "*@dev"
@@ -586,7 +586,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/seo-helper",
-                "reference": "c0fcd1f748b82aa42965fa2399580b77642e1f04"
+                "reference": "4faaadc9ce31b6758c30deef29e4593903a1f2a2"
             },
             "require": {
                 "botble/platform": "*@dev",
@@ -619,7 +619,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/shortcode",
-                "reference": "f5ef965b0d5df3d7de53570dc0c28c29d5430adc"
+                "reference": "496b22ab769f3b01ccc9abffe328350f9571984b"
             },
             "require": {
                 "botble/platform": "*@dev"
@@ -648,7 +648,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/sitemap",
-                "reference": "14fa340b4dda37f8bcc7b9371515c3d0a21cc83e"
+                "reference": "4b7b511d95523705ca390ac337b88f9fee3bce30"
             },
             "type": "library",
             "extra": {
@@ -677,7 +677,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/slug",
-                "reference": "a6b384fb207b07efa35c683e8d30c1f95f158891"
+                "reference": "a10c9ff93719f5e8967ec4702d102d4b4e00f341"
             },
             "require": {
                 "botble/platform": "*@dev"
@@ -709,7 +709,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/theme",
-                "reference": "2bf5dbbfaf0c88f3c920dadff8f726bd3632a5df"
+                "reference": "b17de8ae85c7745f3e5619834fac0b3448cfd31d"
             },
             "require": {
                 "botble/platform": "*@dev",
@@ -750,7 +750,7 @@
             "dist": {
                 "type": "path",
                 "url": "./platform/packages/widget",
-                "reference": "bc2384c97d87c5367085c4c4e42848db384c93e7"
+                "reference": "b09777a9fabc10e51daace18201d12a08ef8c78a"
             },
             "require": {
                 "botble/platform": "*@dev",
